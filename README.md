@@ -14,4 +14,6 @@ Install the following extensions in vscode
 Is high recommend to use community edition of the Java Language and not Oracle version because to create projects that can be put its into production.
 It should be aware about the license.
 
+## This is a document Open Source that can be edit for another dev
+
 Working with all related Java knowing the basic
