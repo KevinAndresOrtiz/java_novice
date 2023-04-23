@@ -19,5 +19,10 @@ public class Variables {
         long universe;
         universe = 1229930304L;
         System.out.println(universe);
+
+        float price;
+        price = 123.23F;
+
+        System.out.println(price);
     }
 }
