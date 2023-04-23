@@ -15,5 +15,9 @@ public class Variables {
 
         salary = salary - 50;
         System.out.println(salary);
+
+        long universe;
+        universe = 1229930304L;
+        System.out.println(universe);
     }
 }
