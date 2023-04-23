@@ -9,5 +9,11 @@ public class Variables {
         String employeeName = "Kevin Andres";
 
         System.out.println(employeeName);
+
+        salary = salary + 500;
+        System.out.println(salary);
+
+        salary = salary - 50;
+        System.out.println(salary);
     }
 }
